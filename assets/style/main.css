@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+
+small {
+    display: inline-block;
+    margin: 0 auto;
+    background-color: #ca2222;
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 10px;
+    padding: .1rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.singleEpisode {
+    text-align: center;
+}
+
+    .singleEpisode__summary {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+.episodes {
+    width: 70%;
+    margin: 0 auto;
+}
+
+    .episode {
+        display: flex;
+        align-items: center;
+    }
+
+    .episode h3 {
+        padding: 1rem;
+    }
+
+    .episode img {
+        padding: 0.3rem;
+        background-color: #ca2222;
+    }
+    

@@ -1,0 +1,25 @@
+{
+  "id": "157154",
+  "url":
+    "http://www.tvmaze.com/episodes/157154/mr-robot-1x01-eps10hellofriendmov",
+  "name": "eps1.0_hellofriend.mov",
+  "season": 1,
+  "number": 1,
+  "airdate": "2015-06-24",
+  "airtime": "22:00",
+  "airstamp": "2015-06-25T02:00:00+00:00",
+  "runtime": 60,
+  "image": {
+    "medium":
+      "http://static.tvmaze.com/uploads/images/medium_landscape/106/266370.jpg",
+    "original":
+      "http://static.tvmaze.com/uploads/images/original_untouched/106/266370.jpg"
+  },
+  "summary":
+    "In MR. ROBOT, Elliot, a cyber-security engineer by day and vigilante hacker by night, is recruited by a mysterious underground group to destroy the firm he's paid to protect. Elliot must decide how far he'll go to expose the forces he believes are running (and ruining) the world.",
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/episodes/157154"
+    }
+  }
+}

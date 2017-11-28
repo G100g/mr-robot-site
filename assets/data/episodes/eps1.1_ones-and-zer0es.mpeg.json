@@ -1,0 +1,25 @@
+{
+  "id": "167379",
+  "url":
+    "http://www.tvmaze.com/episodes/167379/mr-robot-1x02-eps11ones-and-zer0esmpeg",
+  "name": "eps1.1_ones-and-zer0es.mpeg",
+  "season": 1,
+  "number": 2,
+  "airdate": "2015-07-01",
+  "airtime": "22:00",
+  "airstamp": "2015-07-02T02:00:00+00:00",
+  "runtime": 60,
+  "image": {
+    "medium":
+      "http://static.tvmaze.com/uploads/images/medium_landscape/12/31833.jpg",
+    "original":
+      "http://static.tvmaze.com/uploads/images/original_untouched/12/31833.jpg"
+  },
+  "summary":
+    "Tyrell Wellick, now Evil Corp's acting CTO since Elliot helped get Terry Colby arrested, makes Elliot an offer he can (and does) refuse: a position as Evil Corp's head of Cyber Security and a big bank account to match. By saying no, has Elliot made himself a mark for Wellick?",
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/episodes/167379"
+    }
+  }
+}

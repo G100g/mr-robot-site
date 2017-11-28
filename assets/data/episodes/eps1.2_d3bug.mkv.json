@@ -1,0 +1,21 @@
+{
+    "id": "167380",
+    "url": "http://www.tvmaze.com/episodes/167380/mr-robot-1x03-eps12d3bugmkv",
+    "name": "eps1.2_d3bug.mkv",
+    "season": 1,
+    "number": 3,
+    "airdate": "2015-07-08",
+    "airtime": "22:00",
+    "airstamp": "2015-07-09T02:00:00+00:00",
+    "runtime": 60,
+    "image": {
+    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/106/266701.jpg",
+    "original": "http://static.tvmaze.com/uploads/images/original_untouched/106/266701.jpg"
+    },
+    "summary": "After being shoved off the railing in Coney Island by Mr. Robot, Elliot wakes up in a hospital room, badly banged up. Krista, his psychiatrist, is inclined to send him to rehab unless he's willing to be regularly drug tested. Elliot complies, knowing that he can easily change the hospital records for the tests since he hacked their system long ago.",
+    "_links": {
+    "self": {
+    "href": "http://api.tvmaze.com/episodes/167380"
+    }
+    }
+    }
